@@ -1,0 +1,1 @@
+# stratnye.github.io
