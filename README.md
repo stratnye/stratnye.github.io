@@ -1,8 +1,4 @@
-# Hi 👋, I'm Shannon Tratnyek 
-
-### Recruiter by day, learning data analytics by night
-
-## About Me: 
+# About Me: 
 - 🛠️I work at [Rundoo](https://rundoo.ai/), where I'm helping build out our Chicago-based Go-to-Market org. We are big fans of AI and automation here, and always looking for creative ways to optimize work. 
 - 🔭 Nights and weekends, I'm working on a graduate certificate in Business Analytics at Purdue's Daniels School of Business. I plan to apply what I've learned to support business decision making in my work within HR and Talent Acquisition. 
 - When I'm not doing either of those things, I'm knitting 🧶 or training with the [Chicago Swordplay Guild](https://www.chicagoswordplayguild.com/) ⚔️
@@ -31,11 +27,11 @@ Summary below, view and download my full resume [here](https://stratnye.github.i
 
 | Company | Title | Dates |
 | ------- | ------ | ---------- |
-| Rundoo | Talent Partner, GTM | 2026 - Present |
-| Logiwa | People Operations / North America Recruiting Lead | 2021-2026 |
-| Thoughtworks | Senior Recruiter | 2021 |
-| BenchPrep | Talent Acquisition Specialist | 2019-2021|
-| Objective Paradigm | Research & Sourcing Specialist | 2017-2019 |
+|Rundoo| Talent Partner, GTM | 2026 - Present |
+|Logiwa| People Operations / North America Recruiting Lead | 2021-2026 |
+|Thoughtworks | Senior Recruiter | 2021 |
+|BenchPrep| Talent Acquisition Specialist | 2019-2021|
+|Objective Paradigm | Research & Sourcing Specialist | 2017-2019 |
 
 ## Education
   
