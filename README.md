@@ -28,13 +28,14 @@ Summary below, view and download my full resume [here](https://stratnye.github.i
   ![Static Badge](https://img.shields.io/badge/Dash-black?logo=dash)
 
 ## Work Experience
-  | Company | Title | Dates |
-  | ------- | ------ | ---------- |
-  | Rundoo | Talent Partner, GTM | 2026 - Present |
-  | Logiwa | People Operations / North America Recruiting Lead | 2021-2026 |
-  | Thoughtworks | Senior Recruiter | 2021 |
-  | BenchPrep | Talent Acquisition Specialist | 2019-2021|
-  | Objective Paradigm | Research & Sourcing Specialist | 2017-2019 |
+
+| Company | Title | Dates |
+| ------- | ------ | ---------- |
+| Rundoo | Talent Partner, GTM | 2026 - Present |
+| Logiwa | People Operations / North America Recruiting Lead | 2021-2026 |
+| Thoughtworks | Senior Recruiter | 2021 |
+| BenchPrep | Talent Acquisition Specialist | 2019-2021|
+| Objective Paradigm | Research & Sourcing Specialist | 2017-2019 |
 
 ## Education
   
@@ -49,9 +50,9 @@ Summary below, view and download my full resume [here](https://stratnye.github.i
 - Python for Data Science, AI & Development, IBM, via Coursera
 - Human Resources Analytics, University of California, Irvine, via Coursera
 
- ## Projects
+## Projects
   
-  ### Using AI for Business Analytics - Summer 2026
+### Using AI for Business Analytics - Summer 2026
 
   **Nova Retail Dashboard** ![Static Badge](https://img.shields.io/badge/View_Project_Here-blue?link=https%3A%2F%2Fst-nova-retail.streamlit.app%2F)
     ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github&link=%20https%3A%2F%2Fgithub.com%2Fstratnye%2FNovaRetail)
