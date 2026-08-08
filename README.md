@@ -3,15 +3,16 @@
 ### Recruiter by day, learning data analytics by night
 
 ## About Me: 
-- 🛠️I work at <a href="https://rundoo.ai/">Rundoo</a>, where I'm helping build out our Chicago-based Go-to-Market org. We are big fans of AI and automation here, and always looking for creative ways to optimize work. 
+- 🛠️I work at [Rundoo](https://rundoo.ai/), where I'm helping build out our Chicago-based Go-to-Market org. We are big fans of AI and automation here, and always looking for creative ways to optimize work. 
 - 🔭 Nights and weekends, I'm working on a graduate certificate in Business Analytics at Purdue's Daniels School of Business. I plan to apply what I've learned to support business decision making in my work within HR and Talent Acquisition. 
-- When I'm not doing either of those things, I'm knitting 🧶 or training with the <a href="https://www.chicagoswordplayguild.com/"> Chicago Swordplay Guild.</a> ⚔️
+- When I'm not doing either of those things, I'm knitting 🧶 or training with the [Chicago Swordplay Guild](https://www.chicagoswordplayguild.com/) ⚔️
 - 🌱 I'm currently learning Python and vibe-coding, so far mostly with Claude. 
 - 📫 How to reach me **stratnye@purdue.edu**
 
-## CV
+# CV
+Summary below, view and download my full resume [here](https://stratnye.github.io/online-cv/). 
 
-### Tech Stack:
+## Tech Stack:
   ![Static Badge](https://img.shields.io/badge/Claude-black?logo=claude) 
   ![Static Badge](https://img.shields.io/badge/Claude_Code-black?logo=claudecode)
   ![Static Badge](https://img.shields.io/badge/Gemini-black?logo=googlegemini)
@@ -26,20 +27,16 @@
   ![Static Badge](https://img.shields.io/badge/Streamlit-black?logo=streamlit)
   ![Static Badge](https://img.shields.io/badge/Dash-black?logo=dash)
 
-<details>
-  <Summary><h3>Work Experience</h3></Summary>
+## Work Experience
   | Company | Title | Dates |
   | ------- | ------ | ---------- |
   | Rundoo | Talent Partner, GTM | 2026 - Present |
   | Logiwa | People Operations / North America Recruiting Lead | 2021-2026 |
   | Thoughtworks | Senior Recruiter | 2021 |
   | BenchPrep | Talent Acquisition Specialist | 2019-2021|
-  |Objective Paradigm| Research & Sourcing Specialist | 2017-2019 |
+  | Objective Paradigm | Research & Sourcing Specialist | 2017-2019 |
 
-Read more on <a href="http://www.linkedin.com/in/shannonkellytratnyek/">LinkedIn.</a>
-
-</details>
-<details><summary><h3>Education</h3></summary>
+## Education
   
 | Institution                                | Degree                                 | Dates           |
 |--------------------------------------------|----------------------------------------|-----------------|
@@ -51,28 +48,26 @@ Read more on <a href="http://www.linkedin.com/in/shannonkellytratnyek/">LinkedIn
 - Certified Diversity & Inclusion Recruiter, AIRS
 - Python for Data Science, AI & Development, IBM, via Coursera
 - Human Resources Analytics, University of California, Irvine, via Coursera
-</details>
-<details>
-  <Summary><h3>Projects </h3></Summary>
+
+ ## Projects
   
   ### Using AI for Business Analytics - Summer 2026
 
-<strong>Nova Retail Dashboard</strong> ![Static Badge](https://img.shields.io/badge/View_Project_Here-blue?link=https%3A%2F%2Fst-nova-retail.streamlit.app%2F)
+  **Nova Retail Dashboard** ![Static Badge](https://img.shields.io/badge/View_Project_Here-blue?link=https%3A%2F%2Fst-nova-retail.streamlit.app%2F)
     ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github&link=%20https%3A%2F%2Fgithub.com%2Fstratnye%2FNovaRetail)
 
-  - Assignment to practice exploratory data analysis and data wrangling
-  - Interactive visual dashboard, written in Python, deployed via Streamlit
-  - Skills: Claude, Python, pandas, plotly, streamlit
+- Assignment to practice exploratory data analysis and data wrangling
+- Interactive visual dashboard, written in Python, deployed via Streamlit
+- Skills: Claude, Python, pandas, plotly, streamlit
     
-  <strong>Airbnb Arbitrage App</strong> ![Static Badge](https://img.shields.io/badge/View_Project_Here-blue?link=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1FwhHzCvHVvHwcDe374X1KFQtBeo1ADVz%3Fusp%3Dsharing)
+ **Airbnb Arbitrage App** ![Static Badge](https://img.shields.io/badge/View_Project_Here-blue?link=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1FwhHzCvHVvHwcDe374X1KFQtBeo1ADVz%3Fusp%3Dsharing)
   - Supervised learning project: creating a multiple variable linear regression using Google Colab, Gradio for rapid prototyping
   - Skills: Claude, Colab, Python, numpy, pandas, plotly, 
 
- <strong>IBM Employee Attrition App</strong> ![Static Badge](https://img.shields.io/badge/View_Project_Here-blue?link=https%3A%2F%2F87d3877b-8066-4c61-8fc2-f682965f46fc.plotly.app%2F) ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github&link=https%3A%2F%2Fgithub.com%2Fstratnye%2Fibm-employee-turnover)
+**IBM Employee Attrition App** ![Static Badge](https://img.shields.io/badge/View_Project_Here-blue?link=https%3A%2F%2F87d3877b-8066-4c61-8fc2-f682965f46fc.plotly.app%2F) ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github&link=https%3A%2F%2Fgithub.com%2Fstratnye%2Fibm-employee-turnover)
   - K-means clustering to segment IBM employee population and explore differences between employees who leave and employees who stay. 
   - Python app deployed to Plotly Cloud
   - Skills: Claude, Colab, Python, numpy, pandas, scikit-learn, dash, plotly
-</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
