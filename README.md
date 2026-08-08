@@ -28,27 +28,20 @@
 
 <details>
   <Summary><h3>Work Experience</h3></Summary>
-
-  Strategic Talent Acquisition leader with over 8 years of experience driving growth in high-growth B2B
-SaaS startups and technology companies. Proven success in scaling GTM, technical, and corporate teams
-across all business levels. Skilled in full-cycle recruiting, diversity initiatives, and partnering with
-leadership to build high-performing, inclusive teams that support organizational goals.
-
-  
-| Company| Title               | Dates          |
-|--------|---------------------|--------------- |
-| Rundoo | Talent Partner, GTM | 2026 - Present |
-| Logiwa | People Operations / North America Recruiting Lead | 2021-2026 |
-|Thoughtworks| Senior Recruiter | 2021 |
-|BenchPrep| Talent Acquisition Specialist | 2019-2021|
-|Objective Paradigm| Research & Sourcing Specialist | 2017-2019 |
+  | Company | Title | Dates |
+  | ------- | ------ | ---------- |
+  | Rundoo | Talent Partner, GTM | 2026 - Present |
+  | Logiwa | People Operations / North America Recruiting Lead | 2021-2026 |
+  | Thoughtworks | Senior Recruiter | 2021 |
+  | BenchPrep | Talent Acquisition Specialist | 2019-2021|
+  |Objective Paradigm| Research & Sourcing Specialist | 2017-2019 |
 
 Read more on <a href="http://www.linkedin.com/in/shannonkellytratnyek/">LinkedIn.</a>
 
 </details>
 <details><summary><h3>Education</h3></summary>
   
-| Institution| Degree                                 | Dates           |
+| Institution                                | Degree                                 | Dates           |
 |--------------------------------------------|----------------------------------------|-----------------|
 |Purdue University Daniels School of Business|Graduate Certificate, Business Analytics|Expected May 2027|
 |Grinnell College                            |Bachelor of Arts, Sociology             | 2013            |
